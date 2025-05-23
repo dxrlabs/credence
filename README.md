@@ -8,8 +8,8 @@
 
 - 🔐 OAuth2 Client Credentials Grant support
 - 🔁 Automatic token caching and refreshing
-- 🔑 Supports multiple credentials with isolated token lifecycles
 - 🧵 Safe for concurrent use
+- 🔑 Supports multiple credentials with isolated token lifecycles
 - 📦 Clean, minimal API
 
 ---
