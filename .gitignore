@@ -1,0 +1,23 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build output
+bin/
+build/
+
+# Go modules
+vendor/
+
+# IDE/editor configs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
