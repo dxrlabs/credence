@@ -1,3 +1,7 @@
+# ![Go Test](https://github.com/dxrlabs/credence/actions/workflows/go.yml/badge.svg)
+![Go Version](https://img.shields.io/badge/go-1.21+-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Credence
 
 **Credence** is a Go library that manages authentication for external APIs, handling token acquisition, refresh, and multi-credential orchestration. It wraps the standard `golang.org/x/oauth2` library with a thread-safe, extensible interface.
